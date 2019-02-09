@@ -1,0 +1,16 @@
+[project]
+name = INSERT_PROJECT_NAME
+
+[packages]
+lektor-s3 = 0.5.0
+lektor-markdown-highlighter = 0.2
+lektor-markdown-header-anchors = 0.2
+lektor-markdown-admonition = 0.1
+
+[servers.s3]
+name = S3
+enabled = yes
+target = INSERT_PROJECT_S3_URL
+
+[servers.ghpages]
+target = ghpages://INSERT_PROJECT_GITHUB_ORG/website

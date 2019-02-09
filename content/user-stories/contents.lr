@@ -2,16 +2,17 @@ title: User Stories
 ---
 body:
 
-A set of user stories to inform development of the Frictionless Data ecosystem.
+A set of user stories to inform development of the INSERT_LONG_PROJECT_NAME ecosystem.
 
 ## Personas
 
-- Researcher: A person conducting data-intensive research.
-- Publisher: A person or organization looking to publish datasets.
-- Developer: A person working on developing software that creates or consumes Data Packages.
+- Publisher: A person or organization looking to managed and publish data.
+- Developer: A person working on developing software that creates or consumes data.
+- Contributor: A person working on software, algorithms, or derived data interested in contributing to the project.
+- Researcher: 
 
 ## User Stories
 
-User stories are managed on a Trello board which you can view below.  Click through to leave a comment or subscribe to user stories you're interested in. To add a new user story, [open a new issue in our issue tracker](https://github.com/frictionlessdata/specs/issues/new) and we will discuss it with you and add it to the Trello board below.
+User stories are managed on a Trello board which you can view below.  Click through to leave a comment or subscribe to user stories you're interested in. To add a new user story, [open a new issue in our issue tracker](https://github.com/INSERT_PROJECT_GIHUB_ORG/specs/issues/new) and we will discuss it with you and add it to the Trello board below.
 
-<iframe width="100%" height="725px" src="https://trello.com/b/MGC4RpTZ.html"></iframe>
+<iframe width="100%" height="725px" src="INSERT_PROJECT_USER_STORY_TRELLO_BOARD"></iframe>
